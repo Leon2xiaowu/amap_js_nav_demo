@@ -1,0 +1,20 @@
+.map-part {
+  width: 100vw;
+  height: 100vh;
+}
+.grasp-refresh {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  background: rgba(204, 204, 204, 0.8);
+}
+
+.test-btns {
+  position: fixed;
+  top: 0;
+  left: 200px;
+  background: rgba(204, 204, 204, 0.8);
+  z-index: 20;
+}
